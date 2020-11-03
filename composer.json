@@ -1,0 +1,22 @@
+{
+  "name": "Mo7amad7amdy/remember-me",
+  "description": "Module to add Remember me to Magento 2 login",
+  "keywords": ["Magento", "PHP", "Magento2", "Login", "RememberMe"],
+  "license": "MIT",
+  "homepage": "https://github.com/Mo7amad7amdy/remember-me",
+  "authors": [
+    {
+      "name": "Mohammad Hamdy",
+      "email": "Mohammad-Hamdy@hotmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.3"
+  },
+  "autoload": {
+    "psr-0": {
+      "Hamdiko\\Rememberme\\": "src/"
+    }
+  }
+}
