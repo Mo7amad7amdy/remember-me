@@ -8,7 +8,7 @@
     "magento/module-customer": "102.0.*"
   },
   "license": [
-    "Proprietary"
+    "MIT"
   ],
   "autoload": {
     "files": [
