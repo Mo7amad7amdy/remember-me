@@ -1,11 +1,27 @@
 {
   "name": "hamdiko/rememberme",
-  "version": "1.0.0",
-  "description": "N/A",
+  "description": "Module to add Remember-me to Magento 2 login",
+  "keywords": [
+    "Magento",
+    "PHP",
+    "Magento2",
+    "Login",
+    "RememberMe"
+  ],
+  "homepage": "https://github.com/Mo7amad7amdy/remember-me",
+  "authors": [
+    {
+      "name": "Mohammad Hamdy",
+      "email": "Mohammad-Hamdy@hotmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "version": "1.2.3",
   "type": "magento2-module",
   "require": {
-    "magento/framework": "*",
-    "magento/module-customer": "102.0.*"
+    "magento/framework": "2.3.*",
+    "magento/module-customer": "102.0.*",
+    "php": "7.3"
   },
   "license": [
     "MIT"
